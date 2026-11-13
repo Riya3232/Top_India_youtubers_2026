@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI 
 
 
-![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
+![excel-to-powerbi-animated-diagram](Assets/Images/kaggle_to_powerbi.gif)
 
 
 
@@ -119,7 +119,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup]_(assets/images/dashboard_mockup (2).png).
+![Dashboard-Mockup](Assets/Images/Dashboard_mockup.png.jpeg)
 
 
 ## Tools 
@@ -792,7 +792,3 @@ ORDER BY
 #### Output
 
 ![Most views](assets/images/youtubers_with_the_most_views.png)
-
-
-
-
