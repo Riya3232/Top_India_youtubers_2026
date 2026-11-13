@@ -351,7 +351,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![Image_ of Power BI Dashboard](assets/images/powerbi_dashboard.png)
 
 This shows the Top India Youtubers in 2026 so far. 
 
